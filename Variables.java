@@ -11,7 +11,7 @@ public class Variables {
 	
 	int length = 5;
 	int width = 6;
-	int area = 2*length + 2*width;
+	int area = length*width;
 	 System.out.println(area);
 	 
 	double pi = 3.14;
